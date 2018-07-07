@@ -1,5 +1,7 @@
 def Crypt(text):
     temp=[]
+    #dfadf
+    #affdasfasdfas
     text.append(1)
     text.append(2)
     for i in range(len(text)):
